@@ -1,0 +1,26 @@
+{
+  "name": "bertha",
+  "version": "1.0.0",
+  "description": "Bertha bot in Node.js with Microsoft Bot Framework",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dr-strange/bertha.git"
+  },
+  "keywords": [
+    "bot"
+  ],
+  "author": "Harry Strange",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dr-strange/bertha/issues"
+  },
+  "homepage": "https://github.com/dr-strange/bertha#readme",
+  "dependencies": {
+    "botbuilder": "^3.7.0",
+    "restify": "^4.3.0"
+  }
+}
